@@ -1,0 +1,2 @@
+build --cxxopt=-std=c++17
+build --macos_minimum_os=12.0
